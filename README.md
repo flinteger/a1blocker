@@ -1,5 +1,7 @@
-<p align="center">
-  <img src="static/a1blocker.png" alt="A1Blocker" style="width: 128px; height: 120px;"/>
+<p align="center"> 
+  <a href="https://apps.apple.com/app/id1645472970">
+    <img src="static/a1blocker.png" alt="A1Blocker" style="width: 100px; height: 100px;"/>
+  </a>
 </p>
 
 # A1Blocker
@@ -8,7 +10,9 @@ A1Blocker blocks Apps, Ads &amp; Trackers, Phishing, Adult Content etc.
 
 ## Install
 
-<a href="https://apps.apple.com/app/id1645472970" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="static/appstore.svg" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+<a href="https://apps.apple.com/app/id1645472970" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;">
+  <img src="static/appstore.svg" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;">
+</a>
 
 ## Features
 
