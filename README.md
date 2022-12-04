@@ -1,6 +1,11 @@
 <p align="center"> 
   <a href="https://apps.apple.com/app/id1645472970">
-    <img src="static/a1blocker.png" alt="A1Blocker" style="width: 100px; height: 100px;"/>
+    <img src="static/a1blocker.png" alt="A1Blocker" style="width: 100px; height: 100px;" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://twitter.com/flinteger">
+    <img src="https://img.shields.io/badge/@flinteger-blue?logo=Twitter" alt="Follow us on Twitter" />
   </a>
 </p>
 
