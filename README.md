@@ -1,6 +1,6 @@
 <p align="center"> 
   <a href="https://apps.apple.com/app/id1645472970">
-    <img src="static/a1blocker.png" alt="A1Blocker" style="width: 100px; height: 100px;" />
+    <img src="static/a1blocker-en-1200x628.png" alt="A1Blocker" style="width: 800px; " />
   </a>
 </p>
 <p align="center">
@@ -11,7 +11,7 @@
 
 # A1Blocker
 
-A1Blocker blocks Apps, Ads &amp; Trackers, Phishing, Adult Content etc.
+A1Blocker - Hide Apps, Ads, Trackers, Phishing, Adult Content etc.
 
 ## Install
 
