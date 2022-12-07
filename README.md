@@ -16,7 +16,8 @@ A1Blocker - Hide Apps, Ads, Trackers, Phishing, Adult Content etc.
 ## Install
 
 <a href="https://apps.apple.com/app/id1645472970" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;">
-  <img src="static/appstore.svg" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;">
+  <img src="static/appstore.svg" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;" />
+  <img src="static/a1blocker-qrcode.jpg" style="width: 100px"/>
 </a>
 
 ## Features
