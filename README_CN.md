@@ -6,6 +6,10 @@
   </a>
 </p>
 
+A1Blocker是一个小巧的iOS应用。它能禁止App的安装和删除，隐藏App，限制打开App。网络防护能在Safari浏览器里拦截成人网站的访问，拦截钓鱼欺诈网站，恶意网站，加密货币挖矿网站，并允许自定义要拦截的网站。
+
+## FAQ
+
 如果你在使用中遇到了问题，请先查看[常见问题](https://github.com/flinteger/a1blocker/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)。
 
 ## 安装
