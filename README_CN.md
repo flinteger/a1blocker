@@ -1,8 +1,21 @@
 # A1Blocker
 
+<p align="left">
+  <a href="https://twitter.com/flinteger">
+    <img src="https://img.shields.io/badge/@flinteger-blue?logo=Twitter" alt="Follow us on Twitter" />
+  </a>
+</p>
+
 如果你在使用中遇到了问题，请先查看[常见问题](https://github.com/flinteger/a1blocker/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)。
 
-## 玩法
+## 安装
+
+<a href="https://apps.apple.com/app/id1645472970" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;">
+  <img src="static/appstore.svg" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;" />
+  <img src="static/a1blocker-qrcode.jpg" style="width: 100px"/>
+</a>
+
+## 功能演示
 
 ### 通过快捷指令一键隐藏App
 
