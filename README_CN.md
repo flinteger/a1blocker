@@ -26,3 +26,9 @@ A1Blocker是一个小巧的iOS应用。它能禁止App的安装和删除，隐�
 以 `Telegram` 为例演示如何结合快捷指令进行一键隐藏：
 
 https://user-images.githubusercontent.com/76669975/206916676-4cefebfd-68eb-4815-b087-9fd594b4ae1d.mp4
+
+
+快速启动：
+https://user-images.githubusercontent.com/76669975/211684299-986eaa6e-2148-45b2-8f4e-6a19f43cc596.mp4
+
+
